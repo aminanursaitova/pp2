@@ -1,0 +1,2 @@
+a = ()
+print(all(a))
